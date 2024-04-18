@@ -1,0 +1,61 @@
+Tell me, does it look like in heaven?what
+Is it  Is it free like they say?peaceful?
+Does the shine bright forever?sun 
+Have your and your pain gone away?fears 
+'Cause here Earth it feels like everything on 
+Good is since you left missing
+And here Earth, everything's different on
+There's an emptiness
+vim-vim, I
+I hope dancing in the sky you're 
+And I o yu're singing in the angel's choir hope 
+And I he angels know what they have hope 
+I'll bet so nice up in Heaven since you arrived it's 
+So tell what do you do up in Heaven? me,
+Are your filled with love and light? days 
+Is there  Is there art and adventure?music?
+Tell me you happy? Are you more alive?are 
+'Cause here Earth it feels like everything on 
+Good is since you left missing 
+And here Earth everything's different on 
+There's an emptiness
+vim-oh, I
+I hope dancing in the sky you're 
+And I you're singing in the angel's choir hope 
+And I the angels know what they have hope 
+vim-oh, I
+I hope you're dancing in the sky
+And I hope you're singing in the angel's choir
+And I hope the angels know what they have
+vim-oh, I
+I hope you're dancing in the sky
+And I hope you're singing in the angel's choir
+And I hope the angels know what they have
+vim-oh, I
+I hope you're dancing in the sky
+And I hope you're singing in the angel's choir
+And I hope the angels know what they have
+vim-oh, I
+I hope you're dancing in the sky
+And I hope you're singing in the angel's choir
+And I hope the angels know what they have
+vim-oh, I
+I hope you're dancing in the sky
+And I hope you're singing in the angel's choir
+And I hope the angels know what they have
+I'll bet so nice up in Heaven since you arrived it's 
+Since you arrived
+vim, oh
+(What does look like in heaven?) Yeah, yeah it 
+vim, oh, oh-oh
+vim-oh, oh
+vim, oh, I
+I hope dancing in the sky you're 
+And I you're singing in the angel's choir hope 
+And I the angels know what they have hope 
+I'll bet so nice up in Heaven since you arrived it's 
+Since you arrived
+
+For first task i used 0w,dw,$,p
+For second task i used this command :%s/Oh/vim/g
+For Third task i used recording mode qa for starting q for ending thats all))
